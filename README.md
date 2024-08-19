@@ -12,14 +12,8 @@ How then do we process continuous-time signals? In this lab, we will show that c
 
 3. Open a new Terminal, run the command `jupyter notebook` and open `lab01_individual_report.ipynb`.
 
-4. Complete the individual lab report `lab01_individual_report.ipynb`.
+4. Complete the lab report `lab01_report.ipynb`.
 
-5. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab01_final_report.ipynb`.
 
 ## Submission
 
-```bash
-git add lab01_report.ipynb
-git commit -m "update lab report"
-git push
-```
