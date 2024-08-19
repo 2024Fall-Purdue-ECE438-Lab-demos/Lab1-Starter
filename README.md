@@ -10,7 +10,7 @@ How then do we process continuous-time signals? In this lab, we will show that c
 
 2. Lab instructions can be found in [`lab01_instructions.pdf`](lab01_instructions.pdf).
 
-3. Open a new Terminal, run the command `jupyter notebook` and open `lab01_individual_report.ipynb`.
+3. Open a new Terminal, run the command `jupyter notebook` and open `lab01_report.ipynb`.
 
 4. Complete the lab report `lab01_report.ipynb`.
 
