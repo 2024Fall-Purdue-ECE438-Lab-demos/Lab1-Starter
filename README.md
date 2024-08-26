@@ -17,3 +17,20 @@ How then do we process continuous-time signals? In this lab, we will show that c
 
 ## Submission
 
+### Code Submission
+Option1:
+
+```bash
+git add -A 
+git commit -m "update lab report"
+git push
+```
+
+Option2:
+Use Github Desktop
+
+### Report Submission
+
+1. Use this [Colab script](https://colab.research.google.com/drive/1nhBEHiRXHo6kpzQ6P0lLXThznxCYfvAI#scrollTo=Dfqg8VMOCXWp) to convert your report.ipynb to an HTML file and print the HTML file as a PDF file
+
+3. Submit the PDF file to [Gradescope](https://www.gradescope.com/).
